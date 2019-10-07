@@ -5,8 +5,10 @@
 <p align="center">
 <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
 <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-3.6-blue.svg"/></a>
-<a href=""><img src="https://img.shields.io/github/last-commit/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
-<a href=""><img src="https://img.shields.io/github/repo-size/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
+<a href="https://github.com/AakashSudhakar/ds-project-maker/commits/master"><img src="https://img.shields.io/github/last-commit/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
+<a href="https://github.com/AakashSudhakar/ds-project-maker"><img src="https://img.shields.io/github/repo-size/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
+<a href="https://github.com/AakashSudhakar/ds-project-maker/releases"><img src="https://img.shields.io/github/release/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
+
 
 ---
 
