@@ -1,0 +1,13 @@
+# Miscellaneous Garbage Files/Directories
+.DS_Store
+*/.DS_Store
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Pending Project Files/Directories
+datasets/
+models/
+notebooks/
+production/
+references/
+reports/
