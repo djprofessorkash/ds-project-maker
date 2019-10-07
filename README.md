@@ -1,6 +1,6 @@
 <h1 align="center"><b>D.S. Project</b>: <i>Template Repository</i></h1>
 
-Be sure to replace the _badge links_ to your own personal project links so they're up-to-date! 
+`TODO`: **Be sure to replace the badge links to your own personal project links so they're up-to-date!**
 
 <p align="center">
 <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
@@ -8,14 +8,11 @@ Be sure to replace the _badge links_ to your own personal project links so they'
 <a href=""><img src="https://img.shields.io/github/last-commit/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/AakashSudhakar/ds-project-maker.svg?style=flat"/></a>
 
-
-![The secondary structure of p11 protein 1BT6.](https://upload.wikimedia.org/wikipedia/en/d/d4/Structure_of_p11_protein_1BT6.png)
-
 ---
 
 ## Description
 
-Write a good description for your data science project here. 
+`TODO`: **Write a good description for your data science project here.**
 
 If you want to highlight important **ideas** or _concepts_, be sure to play with the `styling` of this text.
 
@@ -70,7 +67,7 @@ ds-project-template-repository
 
 ## Dependencies
 
-List any external dependencies for your project here, including relevant in-line links as needed. 
+`TODO`: **List any external dependencies for your project here, including relevant in-line links as needed.** 
 
 General dependencies, such as `NumPy` and `Pandas`, are listed below. 
 
